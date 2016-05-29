@@ -1,0 +1,679 @@
+# depslib dependency file v1.0
+1395434227 source:c:\users\никита\desktop\mortal_kombat\game.cpp
+	"game.h"
+
+1395434227 c:\users\никита\desktop\mortal_kombat\game.h
+
+1400088111 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\game.cpp
+	"game.h"
+
+1400088082 c:\users\никита\google диск\курсач\проект\mortal_kombat\game.h
+	"SDL.h"
+	"menu.h"
+	"choice.h"
+	"test_your_might.h"
+	"fight.h"
+
+1396451477 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"game.h"
+	<SDL_mixer.h>
+	<SDL.h>
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013970 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1341013980 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341013974 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341013974 c:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341013972 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341013970 c:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326111000 c:\program files (x86)\codeblocks\mingw\include\sdl\begin_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\close_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341013974 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1395434808 c:\users\никита\google диск\курсач\проект\mortal_kombat\test.h
+
+1395435083 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\test.cpp
+	"test.h"
+	"test1.h"
+
+1395435083 c:\users\никита\google диск\курсач\проект\mortal_kombat\test1.h
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files (x86)\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\mingw\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\mingw\include\begin_code.h
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\close_code.h
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_keysym.h
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1396184664 c:\users\никита\google диск\курсач\проект\mortal_kombat\menu.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<stdlib.h>
+
+1396709748 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\menu.cpp
+	"menu.h"
+
+1393884734 c:\program files (x86)\codeblocks\mingw\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\mingw\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1400091042 c:\users\никита\google диск\курсач\проект\mortal_kombat\choice.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"svsbase.h"
+	"svssprite.h"
+	"timer.h"
+
+1396890076 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\choice.cpp
+	"choice.h"
+
+1396198097 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\choise.cpp
+	"choise.h"
+
+1396198162 c:\users\никита\google диск\курсач\проект\mortal_kombat\choise.h
+	"SDL.h"
+	"SDL_mixer.h"
+
+1396550102 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\svsbase.cxx
+	<stdio.h>
+	"svsbase.h"
+
+1114942681 c:\users\никита\google диск\курсач\проект\mortal_kombat\svsbase.h
+	"SDL.h"
+
+1114942694 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\svssprite.cxx
+	"svssprite.h"
+
+1396892669 c:\users\никита\google диск\курсач\проект\mortal_kombat\svssprite.h
+	"svsbase.h"
+	"SDL.h"
+
+1396452897 c:\users\никита\google диск\курсач\проект\mortal_kombat\sprite.h
+	"svsbase.h"
+	"svssprite.h"
+
+1396450656 c:\users\никита\google диск\курсач\проект\mortal_kombat\init.h
+
+1396452821 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\sprite.cpp
+	"sprite.h"
+
+1397126396 c:\users\никита\google диск\курсач\проект\mortal_kombat\test_your_might.h
+	"SDL.h"
+	"choice.h"
+
+1397808480 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\test_your_might.cpp
+	"test_your_might.h"
+
+1396960622 c:\users\никита\google диск\курсач\проект\mortal_kombat\timer.h
+	"SDL.h"
+
+1396808708 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\timer.cpp
+	"timer.h"
+
+1400096568 c:\users\никита\google диск\курсач\проект\mortal_kombat\fight.h
+	"SDL.h"
+	"choice.h"
+
+1400096630 source:c:\users\никита\google диск\курсач\проект\mortal_kombat\fight.cpp
+	"fight.h"
+
+1402050129 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\choice.cpp
+	"choice.h"
+
+1400333165 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\choice.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"svsbase.h"
+	"svssprite.h"
+	"timer.h"
+
+1114942681 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\svsbase.h
+	"SDL.h"
+
+1396892669 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\svssprite.h
+	"svsbase.h"
+	"SDL.h"
+
+1400612166 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\timer.h
+	"SDL.h"
+
+1401999568 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\fight.cpp
+	"fight.h"
+
+1401833503 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\fight.h
+	"SDL.h"
+	"choice.h"
+	<time.h>
+
+1402008213 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\game.cpp
+	"game.h"
+
+1400088082 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\game.h
+	"SDL.h"
+	"menu.h"
+	"choice.h"
+	"test_your_might.h"
+	"fight.h"
+
+1396184664 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\menu.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<stdlib.h>
+
+1401896185 c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\test_your_might.h
+	"SDL.h"
+	"choice.h"
+
+1402050129 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"game.h"
+	<SDL_mixer.h>
+	<SDL.h>
+
+1396709748 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\menu.cpp
+	"menu.h"
+
+1396550102 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\svsbase.cxx
+	<stdio.h>
+	"svsbase.h"
+
+1114942694 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\svssprite.cxx
+	"svssprite.h"
+
+1402050129 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\test_your_might.cpp
+	"test_your_might.h"
+
+1396808708 source:c:\users\Никита\google Диск\курсач\Проект\mortal_kombat\timer.cpp
+	"timer.h"
+
+1341013976 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1402050129 source:c:\users\Никита\desktop\Проект\mortal_kombat\choice.cpp
+	"choice.h"
+
+1400333165 c:\users\Никита\desktop\Проект\mortal_kombat\choice.h
+	"SDL.h"
+	"SDL_mixer.h"
+	"svsbase.h"
+	"svssprite.h"
+	"timer.h"
+
+1114942681 c:\users\Никита\desktop\Проект\mortal_kombat\svsbase.h
+	"SDL.h"
+
+1396892669 c:\users\Никита\desktop\Проект\mortal_kombat\svssprite.h
+	"svsbase.h"
+	"SDL.h"
+
+1400612166 c:\users\Никита\desktop\Проект\mortal_kombat\timer.h
+	"SDL.h"
+
+1402052054 source:c:\users\Никита\desktop\Проект\mortal_kombat\fight.cpp
+	"fight.h"
+
+1401833503 c:\users\Никита\desktop\Проект\mortal_kombat\fight.h
+	"SDL.h"
+	"choice.h"
+	<time.h>
+
+1402050129 source:c:\users\Никита\desktop\Проект\mortal_kombat\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"game.h"
+	<SDL_mixer.h>
+	<SDL.h>
+
+1400088082 c:\users\Никита\desktop\Проект\mortal_kombat\game.h
+	"SDL.h"
+	"menu.h"
+	"choice.h"
+	"test_your_might.h"
+	"fight.h"
+
+1396184664 c:\users\Никита\desktop\Проект\mortal_kombat\menu.h
+	"SDL.h"
+	"SDL_mixer.h"
+	<stdlib.h>
+
+1401896185 c:\users\Никита\desktop\Проект\mortal_kombat\test_your_might.h
+	"SDL.h"
+	"choice.h"
+
+1396709748 source:c:\users\Никита\desktop\Проект\mortal_kombat\menu.cpp
+	"menu.h"
+
+1396550102 source:c:\users\Никита\desktop\Проект\mortal_kombat\svsbase.cxx
+	<stdio.h>
+	"svsbase.h"
+
+1114942694 source:c:\users\Никита\desktop\Проект\mortal_kombat\svssprite.cxx
+	"svssprite.h"
+
+1402050129 source:c:\users\Никита\desktop\Проект\mortal_kombat\test_your_might.cpp
+	"test_your_might.h"
+
+1396808708 source:c:\users\Никита\desktop\Проект\mortal_kombat\timer.cpp
+	"timer.h"
+
